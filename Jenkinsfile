@@ -64,4 +64,4 @@ environment { QUAY = credentials('QUAY_USER') }
 }
 
 }
-}
+
